@@ -17,4 +17,6 @@ Game Instructions:
 	. To play the game use arrow keys, avoid the vampire and collect all keys to escape.
 	. Silver and gold keys are 1 and 2 points each respectively. 
 	. If caught, press space to restart or close the game.
-# 2021-CMPT276
+
+Demo Video:
+https://www.youtube.com/watch?v=V1xb_FZ7JIg
